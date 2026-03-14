@@ -255,6 +255,23 @@ Clean separation of concerns is maintained.
 
 ---
 
+## How to Run
+
+### Backend
+- npm install
+- node server.js
+
+### Frontend
+- npm install
+- npm run dev
+
+## API Endpoints
+
+- POST /api/journal
+- GET /api/journal/:userId
+- POST /api/journal/analyze
+- GET /api/journal/insights/:userId
+----
 ## 👩‍💻 Author
 
 AI-Assisted Journal System  
